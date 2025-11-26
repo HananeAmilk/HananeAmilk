@@ -1,7 +1,7 @@
 # Assalamu Alaikum , I'm Amilk Hanane 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI+&+Computer+Vision+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Computer+Vision+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
