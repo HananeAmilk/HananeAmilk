@@ -22,7 +22,7 @@ const developer = {
   location: "Agadir, Morocco",
   languages: ["JavaScript", "Java", "Python", "C", "C++" , "C#"],
   frameworks: ["React", "Spring Boot", ".Net", "JEE", "FastAPI"],
-  AI & Computer Vision : ["Keras", "Sickit-learn", "pandas", "TensorFlow", "Tensorflow Lite", "OpenCv"]
+  AI & Computer Vision : ["Keras", "Sickit-learn", "pandas", "TensorFlow", "Tensorflow Lite", "OpenCv"],
   databases: ["MySQL", "MongoDB" , "Oracle"],
   funFact: "I'm a developer but without coffee ☕"
 };
