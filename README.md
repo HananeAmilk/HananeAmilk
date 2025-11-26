@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer with a deep love for creating elegant solutions to complex problems. My journey in technology spans across full-stack development. I believe in writing clean, maintainable code and building products that make a meaningful impact.
+I'm a passionate software engineer with a deep love for creating elegant solutions to complex problems. My journey in technology spans across full-stack development and AI. I believe in writing clean, maintainable code and building products that make a meaningful impact.
 
 ```typescript
 const developer = {
